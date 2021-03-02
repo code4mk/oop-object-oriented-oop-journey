@@ -21,6 +21,9 @@ class Cat
 }
 ```
 
+# encapsulation vs abstraction
+
+* https://stackoverflow.com/questions/15176356/difference-between-encapsulation-and-abstraction
 
 # resources
 
