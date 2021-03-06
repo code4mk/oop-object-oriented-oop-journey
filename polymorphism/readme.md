@@ -2,6 +2,7 @@
 
 * Poly means many and morphism means forms.
 
+~ interface
 
 # resources
 
