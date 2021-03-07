@@ -1,5 +1,5 @@
 # Encapsulation
-Encapsulation is a process of wraping or combine state and methods (behavior) in a single unit or single container.
+Encapsulation is a process of wraping/combine/bind properties and methods (behavior) in a single unit or single container.
 
 ![https://www.sitesbay.com/cpp/images/encapsulation-in-cpp.png](https://www.sitesbay.com/cpp/images/encapsulation-in-cpp.png)
 
@@ -7,7 +7,7 @@ all state is private , cannot change the state. Only can change with public func
 
 ~ Encapsulation or information hiding
 
-~ Hide internal states and values inside a class
+~ Hide internal states and values inside a class, (safe the modification of state)
 
 ```php
 class Cat
