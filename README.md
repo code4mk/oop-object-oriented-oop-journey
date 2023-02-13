@@ -1,7 +1,7 @@
 # OOP journey
-OOP stands for object oriented programming. OOP is programming paradigm which related with object.
+OOP stands for object-oriented programming. OOP is a programming paradigm related to objects.
 
-OOP main concept are object and class. Each object communicate with each other.
+OOP's main concepts are object and class. Each object communicates with the others.
 
 ## Class
 
